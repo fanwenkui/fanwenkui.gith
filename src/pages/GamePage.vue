@@ -8,8 +8,7 @@
     <a-row align="center">
       <div v-if="gameStatus === 3" style="text-align: center">
         <h2>恭喜，你赢啦！🎉</h2>
-        <img alt="程序员鱼皮" src="../assets/kunkun.png" />
-        <my-ad style="margin-top: 16px" />
+        <img alt="程序员小樊" src="../assets/kunkun.jpeg" />
       </div>
     </a-row>
     <!-- 分层选块 -->

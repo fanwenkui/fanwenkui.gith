@@ -21,6 +21,9 @@ const animals = [
   "🐍",
   "🐭",
   "🐂",
+    "洋",
+    "檬",
+    "魁"
 ];
 
 export const defaultGameConfig: GameConfigType = {

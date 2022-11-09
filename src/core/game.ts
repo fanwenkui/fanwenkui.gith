@@ -1,8 +1,3 @@
-/**
- * 游戏逻辑 V2（不固定 level）
- *
- * @author yupi https://github.com/liyupi
- */
 import { useGlobalStore } from "./globalStore";
 // @ts-ignore
 import _ from "lodash";

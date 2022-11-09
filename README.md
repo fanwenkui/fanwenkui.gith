@@ -1,16 +1,6 @@
-# 鱼了个鱼
+# 养了个洋
 
-> 被羊了个羊虐了百遍后，我自己做了一个！
 
-在线体验：https://yulegeyu.cn
-
-游戏视频：https://www.bilibili.com/video/BV1Pe411M7wh
-
-相关文章：https://mp.weixin.qq.com/s/D_I1Tq-ofhKhlp0rkOpaLA
-
-游戏截图（自定义了图案）：
-
-![游戏截图](doc/img.png)
 
 游戏特色：
 
@@ -20,8 +10,6 @@
 4. 可以无限使用技能（道具）
 5. 不需要看广告
 6. 能通关
-
-> 补一句：就出于兴趣做了几个小时，有 bug 正常哈哈，欢迎 PR~
 
 简单说下实现原理，主要有 4 个点：
 

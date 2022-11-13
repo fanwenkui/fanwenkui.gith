@@ -1,5 +1,8 @@
 // 动物数组
 const animals = [
+  "洋",
+  "檬",
+  "魁",
   "🐔",
   "🐟",
   "🦆",
@@ -20,10 +23,7 @@ const animals = [
   "🦁",
   "🐍",
   "🐭",
-  "🐂",
-    "洋",
-    "檬",
-    "魁"
+  "🐂"
 ];
 
 export const defaultGameConfig: GameConfigType = {

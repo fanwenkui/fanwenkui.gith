@@ -7,8 +7,8 @@
     <!-- 胜利 -->
     <a-row align="center">
       <div v-if="gameStatus === 3" style="text-align: center">
-        <h2>恭喜，你赢啦！🎉</h2>
-        <img alt="程序员小樊" src="../assets/kunkun.jpeg" />
+        <h2 style="color: white">你居然赢啦！恭喜你！🎉</h2>
+        <img alt="程序员小樊" src="../assets/menmen.jpg" width="50%"/>
       </div>
     </a-row>
     <!-- 分层选块 -->
@@ -138,7 +138,9 @@ onMounted(() => {
 .random-area {
   margin-top: 8px;
 }
-
+.random-area .disabled{
+  width: 2px;
+}
 .slot-board {
   border: 10px solid saddlebrown;
   margin: 16px auto;

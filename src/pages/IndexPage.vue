@@ -1,7 +1,7 @@
 <template>
   <div id="indexPage">
-    <h1>养了个🐑</h1>
-    <div style="margin-bottom: 16px">养了个洋小游戏(答应了洋的承诺)</div>
+    <h1 style="color: white">🐑养了个洋</h1>
+    <div style="margin-bottom: 16px;color: #7ec1ff">养了个洋小游戏(答应了洋的承诺)</div>
     <a-button
       block
       style="margin-bottom: 16px"

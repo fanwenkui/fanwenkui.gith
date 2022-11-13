@@ -17,6 +17,10 @@ export const useGlobalStore = defineStore("global", {
     key: "global",
     storage: window.localStorage,
     beforeRestore: (context) => {
+      setTimeout(function() {
+        var head = document.getElementsByTagName('head')[0];
+        new Image().src = "/assets/menmen.jpg";
+      }, 1000);
       console.log("load globalStore data start");
     },
     afterRestore: (context) => {

@@ -29,7 +29,7 @@
       <a-form-item label="每层块数" name="levelBlockNum">
         <a-input-number v-model:value="config.levelBlockNum" />
       </a-form-item>
-      <a-form-item label="边界收缩" name="borderStep">
+      <a-form-item label="边界收缩" name="borderStep" style="display: none;">
         <a-input-number v-model:value="config.borderStep" />
       </a-form-item>
       <a-form-item label="随机区数" name="randomAreaNum">
